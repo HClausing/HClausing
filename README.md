@@ -10,9 +10,20 @@ Owner of EficazFramework, EficazFramework.SPED e EficazERP projects, and oficial
 
 ### Contact
 
-![LinkedIn](https://img.shields.io/static/v1?link=https://www.linkedin.com/in/henrique-clausing-cunha-45085944&label=contact&message=linkedin&color=blue&logo=linkedin&logoColor=white&style=flat-square)
-[![Twitter Follow](https://efshieldsio.azurewebsites.net:/twitter/follow/HenriqueClausi2?color=blue&label=twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/HenriqueClausi2)
-![Discord](https://img.shields.io/static/v1?link=https://discordapp.com/users/7524/&label=chat&message=discord&color=purple&logo=discord&logoColor=white&style=flat-square)
+<div style="display:block;">
+  <a href="https://www.linkedin.com/in/henrique-clausing-cunha-45085944">
+    <img src="https://img.shields.io/static/v1?label=contact&message=linkedin&color=blue&logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  
+  <a href="https://www.twitter.com/HenriqueClausi2">
+   <img src="https://efshieldsio.azurewebsites.net:/twitter/follow/HenriqueClausi2?color=blue&label=twitter&logo=twitter&logoColor=white&style=flat-square" />
+  </a>
+ 
+  <a href="https://discordapp.com/users/7524">
+    <img src="https://img.shields.io/static/v1?label=chat&message=discord&color=purple&logo=discord&logoColor=white&style=flat-square" />
+  </a>
+  
+</div>
 
 ### Stats
 
