@@ -1,10 +1,10 @@
 ### Sobre
-Contador, desenvolvedor de softwares e frameworks, piloto de automobilismo virtual. Fundador da [Eficaz Sistemas](https://github.com/Eficaz-Sistemas). Entusiasta da plataforma .NET e framework Blazor.
+Contador, desenvolvedor de softwares e frameworks, piloto de automobilismo virtual. Fundador da [Eficaz Sistemas](https://github.com/Eficaz-Sistemas). Entusiasta da plataforma .NET e framework Blazor. Apaixonado por programação.
 
 Mantenedor dos projetos EficazFramework, EficazFramework.SPED e EficazERP e membro oficial do time de colaboradores da biblioteca [MudBlazor](https://github.com/MudBlazor/MudBlazor)
 
 ### About
-Accountant, software developer, motorsport virtual driver. Founder of [Eficaz Sistemas](https://github.com/Eficaz-Sistemas). Enthusiast of the .NET platform and Blazor framework.
+Accountant, software developer, motorsport virtual driver. Founder of [Eficaz Sistemas](https://github.com/Eficaz-Sistemas). Enthusiast of the .NET platform and Blazor framework. Passionate about programming.
 
 Owner of EficazFramework, EficazFramework.SPED e EficazERP projects, and oficial member of [MudBlazor](https://github.com/MudBlazor/MudBlazor) contributors team.
 
