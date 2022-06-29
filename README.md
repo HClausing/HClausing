@@ -16,7 +16,7 @@ Owner of EficazFramework, EficazFramework.SPED e EficazERP projects, and oficial
   </a>
   
   <a href="https://www.twitter.com/HenriqueClausi2">
-   <img src="https://efshieldsio.azurewebsites.net:/twitter/follow/HenriqueClausi2?color=blue&label=twitter&logo=twitter&logoColor=white&style=flat-square" />
+   <img src="https://eficazshields.azurewebsites.net:/twitter/follow/HenriqueClausi2?color=blue&label=twitter&logo=twitter&logoColor=white&style=flat-square" />
   </a>
  
   <a href="https://discordapp.com/users/7524">
