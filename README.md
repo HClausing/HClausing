@@ -27,5 +27,5 @@ Owner of EficazFramework, EficazFramework.SPED e EficazERP projects, and oficial
 
 ### Stats
 
-![Henrique Clausing's GitHub stats](https://github-readme-stats.vercel.app/api?username=hclausing&show_icons=true&hide_rank)
+![Henrique Clausing's GitHub stats](https://github-readme-stats.vercel.app/api?username=hclausing&show_icons=true&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hclausing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
